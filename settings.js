@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 global.self_mode = false
-global.autobio = true
+global.autobio = false
 global.msg_connected = false
-global.user_register = false
+global.user_register = tue
 global.anti_delete = false
 global.anticall = true
 global.auto_welcome_msg = true
