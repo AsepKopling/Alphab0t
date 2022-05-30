@@ -3,11 +3,7 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ 1 MINGGU = Rp 5.000
-⬡ 2 MINGGU = Rp 10.000
-⬡ 3 MINGGU = Rp 20.000
-⬡ 1 BULAN = Rp 35.000
-⬡ PERMANEN = Rp 50.000
+⬡ PERMANEN = Rp 15.000
 
 
 ⬣ PRICE JADIBOT
